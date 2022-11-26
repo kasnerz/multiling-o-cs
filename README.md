@@ -1,4 +1,4 @@
-# Multiling-o: MessagEase CS Keyboard Layout
+# Multiling-o: MessagEase-like CS Keyboard Layout
 
 My custom configuration files for the [Multiling-o](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en&gl=US) keyboard. 
 
