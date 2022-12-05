@@ -2,15 +2,15 @@
     "title": "messagease-cs-double",
     "onScreen": {
         "main": [
-            "[4D:#[LB]*[RB]+][4D:a    ;áv…][4D:[LEFT][HOME][EDIT] [MC:[LAYOUT:01]:①]][4D:[RIGHT] [UP][END][DOWN]][4D:i    ýíťx][4D:[DEL][WDEL]]",
+            "[4D:#—|–_][4D:a    ;áv@][4D:[LEFT][HOME][EDIT] [MC:[LAYOUT:01]:①]][4D:[RIGHT] [UP][END][DOWN]][4D:i    ýíťx][4D:[DEL][WDEL] [FDEL]]",
             "[4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:h(š č][4D:n    ěé?!][4D:ocubd pj][4D:rml)ď][4D:[123][EMOJI][SYM] [ALTGR]]",
-            "[4D:-<|>=\"'/–][4D:t    úyů_][4D:k    q&\\g][4D:eřwz.  :,][4D:s    fňóž][SHIFT]",
+            "[4D:-<+>=\"'*/][4D:t    úyůó][4D:k    q&\\g][4D:eřwz.  :,][4D:s    fň…ž][SHIFT]",
             "[TOOL][SPACE][][][][ENTER]"
         ],
         "sym": [
-            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:①]][MC:zdenek.kasner@gmail.com:📬][4D:°{[U+20AC]}[U+00A5]][4D:#[U+00AB][U+2039][U+00BB][U+203A]][4D:[U+2013][U+002F][U+007C]\\_][4D:[DEL][WDEL]]",
-            "[4D:[LEFT]  [HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:[U+2022]←↑→↓][4D:$[LB]×[RB]©][4D:[U+007E]≤—≥[U+00A3]][LOCK]",
-            "[4D:[RIGHT]  [END]][MC:Zdeněk Kasner:👦][4D:&≈[U+2661]≠[U+00B6]][4D:*<^>[U+2122]][4D:[U+00BF][U+0060][U+00A1][U+00B4]√][SHIFT]",
+            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][MC:zdenek.kasner@gmail.com:📬][4D:$[U+00A3][U+20AC]₿¢][4D:\\[U+00AB][U+2039][U+00BB][U+203A]][4D:∞≤∈≥∅][4D:[DEL][WDEL] [FDEL]]",
+            "[4D:[LEFT][HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:§{^}×][4D:[U+2022]←↑→↓][4D:°[LB]♂[RB]♀][LOCK]",
+            "[4D:[RIGHT]  [END]][MC:Zdeněk Kasner:👦][4D:[U+007E]≈✓≠✗][4D:%®[U+2122]©‰][4D:&„[U+00A1]“[U+00BF]][SHIFT]",
             "[DOWN][SPACE][][][][ENTER]"
         ],
         "altGr": [
@@ -20,27 +20,27 @@
             "[DOWN][SPACE][][][][ENTER]"
         ],
         "num": [
-            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:①]][4D:#[LB]*[RB]+][4D:1][4D:2][4D:3][4D:[DEL][WDEL]]",
-            "[4D:[LEFT]  [HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:4][4D:5][4D:6][LOCK]",
-            "[4D:[RIGHT]  [END]][4D:-<|>=\"'/–][4D:7][4D:8][4D:9][RIGHT]",
-            "[DOWN][4D:+(∞).%‰:,][4D:0][SPACE][][ENTER]"
+            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][4D:#—|–_][4D:1][4D:2][4D:3][4D:[DEL][WDEL] [FDEL]]",
+            "[4D:[LEFT][HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:4][4D:5][4D:6][LOCK]",
+            "[4D:[RIGHT]  [END]][4D:-<+>=\"'*/][4D:7][4D:8][4D:9][RIGHT]",
+            "[DOWN][4D:.(,):][4D:0][SPACE][][ENTER]"
         ],
         "edit": [
-            "[4D:.][COPY][UNDO][UP][REDO][4D:[DEL][WDEL]]",
+            "[4D:.][COPY][UNDO][UP][REDO][4D:[DEL][WDEL] [FDEL]]",
             "[4D:,][CUT][LEFT][ALL][RIGHT][LOCK]",
             "[SHIFT][PASTE][HOME][DOWN][END][FDEL]",
             "[TOOL][123][SPACE][][][ENTER]"
         ],
         "shifted": [
-            "[4D:#[LB]*[RB]+][4D:A    ;ÁV…][4D:[LEFT][HOME][EDIT] [MC:[LAYOUT:01]:①]][4D:[RIGHT] [UP][END][DOWN]][4D:I    ÝÍŤX][4D:[DEL][WDEL]]",
-            "[4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:H(Š Č][4D:N    ĚÉ?!][4D:OCUBD PJ][4D:RML)Ď][4D:[123][EMOJI][SYM] [ALTGR]]",
-            "[4D:-<|>=\"'/–][4D:T    ÚYŮ_][4D:K    Q&\\G][4D:EŘWZ.  :,][4D:S    FŇÓŽ][SHIFT]",
+            "[4D:#—|–_][4D:a    ;áv@][4D:[LEFT][HOME][EDIT] [MC:[LAYOUT:01]:①]][4D:[RIGHT] [UP][END][DOWN]][4D:i    ýíťx][4D:[DEL][WDEL] [FDEL]]",
+            "[4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:h(š č][4D:n    ěé?!][4D:ocubd pj][4D:rml)ď][4D:[123][EMOJI][SYM] [ALTGR]]",
+            "[4D:-<+>=\"'*/][4D:t    úyůó][4D:k    q&\\g][4D:eřwz.  :,][4D:s    fň…ž][SHIFT]",
             "[TOOL][SPACE][][][][ENTER]"
         ],
         "symShifted": [
-            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:①]][MC:zdenek.kasner@gmail.com:📬][4D:°{[U+20AC]}[U+00A5]][4D:#[U+00AB][U+2039][U+00BB][U+203A]][4D:[U+2013][U+002F][U+007C]\\_][4D:[DEL][WDEL]]",
-            "[4D:[LEFT]  [HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:[U+2022]←↑→↓][4D:$[LB]×[RB]©][4D:[U+007E]≤—≥[U+00A3]][LOCK]",
-            "[4D:[RIGHT]  [END]][MC:Zdeněk Kasner:👦][4D:&≈[U+2661]≠[U+00B6]][4D:*<^>[U+2122]][4D:[U+00BF][U+0060][U+00A1][U+00B4]√][SHIFT]",
+            "[4D:[UP] [EDIT] [MC:[LAYOUT:01]:②]][MC:zdenek.kasner@gmail.com:📬][4D:$[U+00A3][U+20AC]₿¢][4D:\\[U+00AB][U+2039][U+00BB][U+203A]][4D:∞≤∈≥∅][4D:[DEL][WDEL] [FDEL]]",
+            "[4D:[LEFT][HOME]][4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:§{^}×][4D:[U+2022]←↑→↓][4D:°[LB]♂[RB]♀][LOCK]",
+            "[4D:[RIGHT]  [END]][MC:Zdeněk Kasner:👦][4D:[U+007E]≈✓≠✗][4D:%®[U+2122]©‰][4D:&„[U+00A1]“[U+00BF]][SHIFT]",
             "[DOWN][SPACE][][][][ENTER]"
         ],
         "prediction": {
