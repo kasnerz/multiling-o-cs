@@ -1,4 +1,4 @@
-# Multiling-o: MessagEase CS Keyboard Layout
+# Multiling-o: MessagEase-like CS Keyboard Layout
 
 My custom configuration files for the [Multiling-o](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en&gl=US) keyboard. 
 
@@ -19,7 +19,7 @@ Building upon the [MessagEase](https://play.google.com/store/apps/details?id=com
 
 ## Details
 I was a devoted user of the [MessagEase](https://play.google.com/store/apps/details?id=com.exideas.mekb&hl=cs&gl=US) keyboard. Unlike typical QWERTY keyboards, this keyboard allows to insert characters by swiping on the buttons. 
-This made my typing much more pleasant and error-prone and most importantly – it allowed me to get rid of autocorrect.
+This made my typing much more pleasant, less error-prone, and most importantly – it allowed me to get rid of autocorrect.
 
 However, the keyboard is not well supported anymore, so I decided to switch to **[Multiling-o](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en&gl=US)**, which is an extremely configurable Android keyboard.  
 
