@@ -32,9 +32,9 @@
             "[TOOL][123][SPACE][][][ENTER]"
         ],
         "shifted": [
-            "[4D:#—|–_][4D:a    ;áv@][4D:[LEFT][HOME][EDIT] [MC:[LAYOUT:01]:①]][4D:[RIGHT] [UP][END][DOWN]][4D:i    ýíťx][4D:[DEL][WDEL] [FDEL]]",
-            "[4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:h(š č][4D:n    ěé?!][4D:ocubd pj][4D:rml)ď][4D:[123][EMOJI][SYM] [ALTGR]]",
-            "[4D:-<+>=\"'*/][4D:t    úyůó][4D:k    q&\\g][4D:eřwz.  :,][4D:s    fň…ž][SHIFT]",
+            "[4D:#—|–_][4D:A    ;ÁV@][4D:[LEFT][HOME][EDIT] [MC:[LAYOUT:01]:①]][4D:[RIGHT] [UP][END][DOWN]][4D:I    ÝÍŤX][4D:[DEL][WDEL] [FDEL]]",
+            "[4D:[ALL][CUT][COPY][UNDO][PASTE]][4D:H(Š Č][4D:N    ĚÉ?!][4D:OCUBD PJ][4D:RML)Ď][4D:[123][EMOJI][SYM] [ALTGR]]",
+            "[4D:-<+>=\"'*/][4D:T    ÚYŮÓ][4D:K    Q&\\G][4D:EŘWZ.  :,][4D:S    FŇ…Ž][SHIFT]",
             "[TOOL][SPACE][][][][ENTER]"
         ],
         "symShifted": [
